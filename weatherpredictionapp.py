@@ -4,7 +4,7 @@ import numpy as np
 import os
 
 # Load the trained model (ensure the model file is in the same directory or provide the correct path)
-model_path = '"D:\ACADEMIA\personal\weatherprediction\my_model.h5"'  # Replace with your actual model path
+model_path = '"D:\ACADEMIA\personal\weatherprediction\my_model.keras"'  # Replace with your actual model path
 model = load_model(model_path)
 
 # Function to make predictions based on user input
