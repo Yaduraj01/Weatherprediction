@@ -13,7 +13,7 @@ The result will be displayed on the web app.
 
 Model Info:
 
-Model Format: .h5 (Keras)
+Model Format: .keras 
 
 Purpose: Weather Condition Image Classification
 
