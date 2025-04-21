@@ -20,6 +20,7 @@ Purpose: Weather Condition Image Classification
 Framework: TensorFlow
 
 Evaluation: 
+
 Validation accuracy : 0.8399999737739563
 
 Validation Loss : 0.5157156586647034
